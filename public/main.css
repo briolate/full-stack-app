@@ -1,0 +1,13 @@
+body {
+  background-image: url('../images/kanye.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+p {
+  font-family: 'Barrio', cursive;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 50px;
+}
